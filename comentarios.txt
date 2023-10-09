@@ -1,0 +1,9 @@
+Flutter Development: You have learned how to develop mobile applications using the Flutter framework, which is a powerful tool for creating cross-platform applications.
+
+User Interface (UI) Design: You have gained knowledge of how to design attractive and functional user interfaces, including customization of colors, fonts, and styles.
+
+Form Handling and Navigation: You have learned to work with data input forms and manage navigation between different screens or forms in a Flutter application.
+
+Icon Usage: You have understood how to add icons to your application to enhance the usability and aesthetics of the user interface.
+
+Application Logic: You have developed user authentication logic and interaction between forms, which is essential for many mobile applications.
